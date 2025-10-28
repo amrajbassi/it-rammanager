@@ -1,0 +1,54 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+# (We keep the .spec file under version control)
+# Additional temporary artifacts
+*.manifest
+*.spec~
+
+# Logs and temp
+*.log
+logs/
+/tmp/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage / test
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Local environment
+.env
+.env.*
+
+# Cache
+.cache/
+
+# Node (if any future additions)
+node_modules/
+
+
