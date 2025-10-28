@@ -1,0 +1,3 @@
+([('IT RAM Manager',
+   '/Users/amraj/Projects/it-rammanager/dist/IT RAM Manager',
+   'EXECUTABLE')],)
